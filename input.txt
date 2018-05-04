@@ -1,0 +1,20 @@
+2
+General 56 128 1200
+Large-Memory 84 256 2400
+
+12
+flavor1 1 1024
+flavor2 1 2048
+flavor3 1 4096
+flavor4 2 2048
+flavor5 2 4096
+flavor6 2 8192
+flavor7 4 4096
+flavor8 4 8192
+flavor10 8 8192
+flavor11 8 16384
+flavor13 16 16384
+flavor14 16 32768
+
+2016-01-25 00:00:00
+2016-03-1 23:59:59
